@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+
+# HR-Dashboard
+Build a Mini HR Performance Dashboard for HR Managers to track employee performance, manage bookmarks, and view detailed insights. 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -36,6 +38,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 =======
-# HR-Dashboard
-Build a Mini HR Performance Dashboard for HR Managers to track employee performance, manage bookmarks, and view detailed insights. 
->>>>>>> 663321ccbd0d2ade819e199f28e0623757fee250
+
